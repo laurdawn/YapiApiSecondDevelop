@@ -1,2 +1,1 @@
-# YapiApiSecondDevelop
-Yapi接口上传的二次开发，定制化解析接口
+通过swagger注解解析的定制化Yapi接口上传二次开发，有需要自取，好用的话给个星星，谢谢
